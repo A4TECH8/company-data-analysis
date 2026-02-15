@@ -57,7 +57,6 @@ WITH top_paying_jobs AS (
 )
 SELECT
     s.skills,
-    t.roles,
     AVG(t.yearly_salary) AS avg_salary
 FROM
     skills_dim AS s
@@ -125,4 +124,5 @@ HAVING
     AVG(salary_year_avg) > 100000
 ORDER BY
     skill_demand DESC
+
 LIMIT 10;
