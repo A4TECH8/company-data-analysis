@@ -53,5 +53,5 @@ Practice more complex SQL queries
 
 Final Words
 This project helped me understand what skills I need to focus on for my career. It's not just about learning everything - it's about learning the RIGHT things that companies actually need.
-If you're also starting in data analytics like me, I hope this project helps you too! The data shows that SQL + Python + visualization tools are the foundation. Start there, then add cloud and machine learning later.
+If you're also starting in data analytics like me, I hope this project helps you too! The data shows that EXCEL + SQL + Python + visualization tools are the foundation. Start there, then add cloud and machine learning later.
 Remember: Everyone starts as a beginner. The important thing is to keep practicing and building projects like this!
